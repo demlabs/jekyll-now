@@ -6,6 +6,8 @@ permalink: /about/
 
 We are a group of engineers from IITs/IISc/NITs and we want to complement your engineering education using our experiences.
 
+### Check our [Trainers] (https://demlabs.github.io/trainers/)
+
 ### Information about our parent company
 
 Vidyarthi Point (North East First Largest Student Community and Career Guidance Platform) is an educational organization which has been working in the field of career guidance for the last 7 years. The organization mainly focuses on helping students in all career related aspects like  choosing right career, career planning andamp; development etc in a systematic and scientific way. Besides it supports the students in leading a successful career by proper guidance and motivation. We provide students with information and knowledge about the choices before them, and assist them in making an informed decision. Our strong database of information and knowledge is backed up by constant research, thus providing students with the most up-to- date information possible.
