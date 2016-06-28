@@ -6,7 +6,7 @@ permalink: /about/
 
 We are a group of engineers from IITs/IISc/NITs and we want to complement your engineering education using our experiences.
 
-### Check our [Trainers] (https://demlabs.github.io/trainers/)
+Check our [Trainers] (https://demlabs.github.io/trainers/)
 
 ### Information about our parent company
 
